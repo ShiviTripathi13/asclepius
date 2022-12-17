@@ -1,7 +1,7 @@
 import customtkinter as ctk
 from PIL import Image
 
-from asclepius.centerwin import CenterWindow
+from centerwin import CenterWindow
 
 
 class Signup:

@@ -1,9 +1,9 @@
 import customtkinter as ctk
 from PIL import Image
 
-from asclepius.centerwin import CenterWindow
-from asclepius.login_screen import Login
-from asclepius.signup import Signup
+from centerwin import CenterWindow
+from login_screen import Login
+from signup import Signup
 
 
 class HomeScreen:

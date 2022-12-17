@@ -1,9 +1,10 @@
 import customtkinter as ctk
 from PIL import Image
 
-from asclepius import database
-from asclepius.centerwin import CenterWindow
-
+#from asclepius import database
+#from asclepius.centerwin import CenterWindow
+import database
+from centerwin import CenterWindow
 
 class Dashboard:
     """
